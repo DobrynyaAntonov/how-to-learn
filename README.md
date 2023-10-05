@@ -9,4 +9,4 @@
 - Анимации CSS
 - Пути к файлам и организация файлов по БЭМ
 
-ссылка на проект: https://dobrynyaantonov.github.io/how-to-learn/Ы
+ссылка на проект: https://dobrynyaantonov.github.io/how-to-learn/
